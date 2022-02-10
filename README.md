@@ -17,11 +17,11 @@ director (guides the game)
 +--whiteboard (the blank spaces that fill out as correct letters are guessed)
 __main__ (Launch point)
 
-# Team
-Alvaro Diaz Andia, 
-Ssemugabi Martin, 
+# Team (assignments)
+Alvaro Diaz Andia, (Gunnarson)
+Ssemugabi Martin, (Whiteboard)
 Mariuxi Cajape, 
-Gunnar Schmidt, rgschmidt14@byui.edu
+Gunnar Schmidt, rgschmidt14@byui.edu (WordSelector)
 Elmer Milan, 
 
 Teacher: Brother Richards
