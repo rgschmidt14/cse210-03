@@ -26,3 +26,9 @@ Elmer Milan,
 
 Teacher: Brother Richards
 February 2022
+
+
+credit for our word lists goes to:
+https://enchantedlearning.com/wordlist/
+https://enchantedlearning.com/wordlist/fish.shtml
+https://enchantedlearning.com/wordlist/metals.shtml

@@ -1,4 +1,4 @@
 import director as dir
 
-director = dir.Director
-director.startgame()
+director = dir.Director()
+director._start_game()
