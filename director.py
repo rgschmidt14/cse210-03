@@ -11,7 +11,7 @@ class Director:
         self._is_playing = True
         self._parachute_man = Gunnarson()
         self._word = WordSelector().new_word
-        self.whiteboard = Whiteboard()
+        self._whiteboard = Whiteboard()
 
     def _start_game(self):
         '''This will run the basic functions of the game
