@@ -8,10 +8,26 @@ class Gunnarson:
     '''
 
     def __init__(self):
-        self.man = []
+        self.parachute = {}
+        self.man = {}
         self.alive = Boolean
         
     def display(self):
-        print (self.man)
+        self.parachute["line1"] = " ___"
+        self.parachute["line2"] = "/___\ "
+        self.parachute["line3"] = "\   /"
+        self.parachute["line4"] = " \ /"
+        print (self.parachute["line1"])
+        print (self.parachute["line2"])
+        print (self.parachute["line3"])
+        print (self.parachute["line4"])
+        
+    def cutLine(self):
+        for i in self.parachute:
+            del self.parachute[i]
+            print (self.parachute)
+        
 
-    def 
+trying = Gunnarson()
+trying.display()
+
