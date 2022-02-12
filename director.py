@@ -25,7 +25,7 @@ class Director:
             self.__check_letter()
 
 
-        
+    # Old we do not have to use, I was just writing what I thought we might do, this was before we met on wednesday, feel free to delete/change as needed:
     # def __word_guess(self):
     #     '''This will run the guessing portion of the game
         
