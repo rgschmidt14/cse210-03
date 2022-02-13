@@ -21,9 +21,4 @@ class Whiteboard:
         print(len(self.word.new_word))
 
     def replacing(self):
-       
-
-       
-whiteboard = Whiteboard()
-whiteboard.check_letter()
-whiteboard.replacing()
+       pass

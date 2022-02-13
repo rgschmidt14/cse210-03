@@ -26,8 +26,4 @@ class Gunnarson:
         for i in self.parachute:
             del self.parachute[i]
             print (self.parachute)
-        
-
-trying = Gunnarson()
-trying.display()
 
