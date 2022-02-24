@@ -39,7 +39,7 @@ class WordSelector:
         }
         word_count_in_category = len(dictionary_of_words[category])
         random_number_in_category = random.randrange(0,word_count_in_category)
-        word = dictionary_of_words[category][random_number_in_category].capitalize()
+        word = dictionary_of_words[category][random_number_in_category].lower()  #.capitalize() is what I want to display, but for referencing purposes in all the lists in this program we will use lower() method here. Thank you.
         return word
 
 # Testing - APPROVED         
